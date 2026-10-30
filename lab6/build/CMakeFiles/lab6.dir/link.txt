@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/lab6.dir/main.cpp.o CMakeFiles/lab6.dir/Employee.cpp.o CMakeFiles/lab6.dir/Salaried.cpp.o CMakeFiles/lab6.dir/Commission.cpp.o -o lab6 

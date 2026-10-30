@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab4/build",
-  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab4/main.cpp",
-  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab4/main.cpp",
-  "output": "CMakeFiles/main.dir/main.cpp.o"
-}
-]

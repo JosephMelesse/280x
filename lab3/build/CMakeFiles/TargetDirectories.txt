@@ -1,3 +1,0 @@
-/home/joseph-melesse/code/cpp/cis/280x/lab3/build/CMakeFiles/main.dir
-/home/joseph-melesse/code/cpp/cis/280x/lab3/build/CMakeFiles/edit_cache.dir
-/home/joseph-melesse/code/cpp/cis/280x/lab3/build/CMakeFiles/rebuild_cache.dir

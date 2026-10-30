@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Employee.cpp.o CMakeFiles/main.dir/Salaried.cpp.o CMakeFiles/main.dir/Commission.cpp.o CMakeFiles/main.dir/Date.cpp.o -o main 
