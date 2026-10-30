@@ -1,0 +1,5 @@
+- Added initial rot13 implementation using ranges::transform; compile attempt was blocked.
+- Explained std::ranges::transform usage and provided a simpler loop-based rot13 example.
+- Answered tmux pane zoom question (`prefix + z`) and pane resizing tips.
+- Rewrote main.cpp to a straightforward loop-based rot13 with security note; build not run.
+- Logged actions here as requested.

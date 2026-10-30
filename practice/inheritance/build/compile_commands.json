@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/main.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/Employee.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Employee.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Employee.cpp",
+  "output": "CMakeFiles/main.dir/Employee.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/Salaried.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Salaried.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Salaried.cpp",
+  "output": "CMakeFiles/main.dir/Salaried.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/Commission.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Commission.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Commission.cpp",
+  "output": "CMakeFiles/main.dir/Commission.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/main.dir/Date.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Date.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/practice/inheritance/Date.cpp",
+  "output": "CMakeFiles/main.dir/Date.cpp.o"
+}
+]

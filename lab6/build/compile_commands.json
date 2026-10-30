@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab6/build",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab6/main.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab6/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab6/build",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/main.dir/Employee.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab6/Employee.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab6/Employee.cpp",
+  "output": "CMakeFiles/main.dir/Employee.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab6/build",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/main.dir/Salaried.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab6/Salaried.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab6/Salaried.cpp",
+  "output": "CMakeFiles/main.dir/Salaried.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab6/build",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/main.dir/Commission.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab6/Commission.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab6/Commission.cpp",
+  "output": "CMakeFiles/main.dir/Commission.cpp.o"
+},
+{
+  "directory": "/home/joseph-melesse/code/cpp/cis/280x/lab6/build",
+  "command": "/usr/bin/c++   -std=c++20 -o CMakeFiles/main.dir/Hourly.cpp.o -c /home/joseph-melesse/code/cpp/cis/280x/lab6/Hourly.cpp",
+  "file": "/home/joseph-melesse/code/cpp/cis/280x/lab6/Hourly.cpp",
+  "output": "CMakeFiles/main.dir/Hourly.cpp.o"
+}
+]
